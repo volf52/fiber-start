@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build -t fiber-start .
+docker build --progress=plain -t fiber-start .
